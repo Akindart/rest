@@ -1,0 +1,1493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Messa",
+				"Message_Factory"
+			],
+			[
+				"an",
+				"angle_min"
+			],
+			[
+				"len",
+				"lenght-9"
+			],
+			[
+				"y",
+				"y_laser_index"
+			],
+			[
+				"range",
+				"range_max"
+			],
+			[
+				"ran",
+				"range_min"
+			],
+			[
+				"rang",
+				"range_min"
+			],
+			[
+				"read",
+				"reading"
+			],
+			[
+				"rnage",
+				"range_min"
+			],
+			[
+				"ang",
+				"angle_min"
+			],
+			[
+				"angl",
+				"angle_increment_index"
+			],
+			[
+				"num",
+				"num_readings"
+			],
+			[
+				"angle",
+				"angle_min"
+			],
+			[
+				"anmg",
+				"angle_min_index"
+			],
+			[
+				"range_",
+				"range_max"
+			],
+			[
+				"angle_",
+				"angle_increment"
+			],
+			[
+				"av_",
+				"av_z"
+			],
+			[
+				"lv_",
+				"lv_y"
+			],
+			[
+				"lv",
+				"lv_x"
+			],
+			[
+				"a",
+				"av_z_index"
+			],
+			[
+				"az_",
+				"av_z_index"
+			],
+			[
+				"L",
+				"lv_index"
+			],
+			[
+				"P",
+				"pos_y_index"
+			],
+			[
+				"pos",
+				"pos_x_index"
+			],
+			[
+				"po",
+				"pos_y_index"
+			],
+			[
+				"tf",
+				"tf_i"
+			],
+			[
+				"cma",
+				"carmenLine"
+			],
+			[
+				"O",
+				"Odometry"
+			],
+			[
+				"La",
+				"LaserScan"
+			],
+			[
+				"odom",
+				"odom_base_link"
+			],
+			[
+				"T",
+				"Transform"
+			],
+			[
+				"ME",
+				"MessageInterface"
+			],
+			[
+				"ms",
+				"msg_type"
+			],
+			[
+				"tmp",
+				"tmp_msg"
+			],
+			[
+				"Mess",
+				"Message"
+			],
+			[
+				"Odo",
+				"Odometry_msg"
+			],
+			[
+				"fr",
+				"frame_id"
+			],
+			[
+				"mes",
+				"messages_publisher"
+			],
+			[
+				"TF",
+				"TF_msg"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"de",
+				"decrypter"
+			],
+			[
+				"cam",
+				"carmen_decrypter"
+			],
+			[
+				"me",
+				"messages_publisher"
+			],
+			[
+				"Odom",
+				"OdomMsgs"
+			],
+			[
+				"bas",
+				"base_link_laser"
+			],
+			[
+				"se",
+				"setRotation"
+			],
+			[
+				"frame",
+				"frame_base_link"
+			],
+			[
+				"laser",
+				"laser_msg"
+			],
+			[
+				"Las",
+				"Laser_msg"
+			],
+			[
+				"fa",
+				"fabricateOdomMsg"
+			],
+			[
+				"camr",
+				"carmenLogFile"
+			],
+			[
+				"inpu",
+				"input-file"
+			],
+			[
+				"car",
+				"carmen_decrypter"
+			],
+			[
+				"par",
+				"parse_command_line"
+			],
+			[
+				"s",
+				"store"
+			],
+			[
+				"op",
+				"options_description"
+			],
+			[
+				"prog",
+				"programInputValidation"
+			],
+			[
+				"tur",
+				"turtle1"
+			],
+			[
+				"jade",
+				"jade_ws"
+			],
+			[
+				"ja",
+				"jade_ws"
+			],
+			[
+				"gene",
+				"general_teleop"
+			],
+			[
+				"pr",
+				"producer_consumer"
+			],
+			[
+				"ins",
+				"installed"
+			],
+			[
+				"apt",
+				"apt-get"
+			],
+			[
+				"e",
+				"e_p_rad"
+			],
+			[
+				"ep",
+				"e_p_rad"
+			],
+			[
+				"x",
+				"x_e"
+			],
+			[
+				"tut",
+				"turtlesim_pose"
+			],
+			[
+				"tu",
+				"turtlesim_pose"
+			],
+			[
+				"dis",
+				"distance_tolerance"
+			],
+			[
+				"lo",
+				"loop_rate"
+			],
+			[
+				"loop",
+				"loop_rate"
+			],
+			[
+				"vel",
+				"vel_msg"
+			],
+			[
+				"pu",
+				"publish"
+			],
+			[
+				"cure",
+				"current_distance"
+			],
+			[
+				"degre",
+				"degree2rad"
+			],
+			[
+				"angu",
+				"angular_speed"
+			],
+			[
+				"cl",
+				"clockwise"
+			],
+			[
+				"current",
+				"current_distance"
+			],
+			[
+				"pa",
+				"pathPoint"
+			],
+			[
+				"Vec",
+				"Vector2f"
+			],
+			[
+				"them",
+				"thaMightyController2"
+			],
+			[
+				"Ve",
+				"Vector2f"
+			],
+			[
+				"in",
+				"inverse"
+			],
+			[
+				"s_m",
+				"s_minus_sqrd"
+			],
+			[
+				"co",
+				"command"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"vec",
+				"Vector2f"
+			],
+			[
+				"le",
+				"linear_vel_d"
+			],
+			[
+				"path",
+				"pathPlanning"
+			],
+			[
+				"y1",
+				"y1_error"
+			],
+			[
+				"ze",
+				"z3_line_s"
+			],
+			[
+				"t_",
+				"T_theta"
+			],
+			[
+				"z3",
+				"z3_s"
+			],
+			[
+				"z1",
+				"z1_s"
+			],
+			[
+				"s_",
+				"s_sqrd"
+			],
+			[
+				"z3_",
+				"z3_i"
+			],
+			[
+				"s_mi",
+				"s_minus_sqrd"
+			],
+			[
+				"s_c",
+				"s_cubic"
+			],
+			[
+				"sq",
+				"s_sqrd"
+			],
+			[
+				"be",
+				"beta3"
+			],
+			[
+				"robot_de",
+				"robot_destination_x"
+			],
+			[
+				"robo",
+				"robot_destination_theta"
+			],
+			[
+				"time",
+				"timeLaw"
+			],
+			[
+				"turtle",
+				"turtlesim"
+			],
+			[
+				"robot",
+				"robot_destination"
+			],
+			[
+				"robot_",
+				"robot_origin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"map_p",
+				"map_publisher"
+			],
+			[
+				"maptf",
+				"map_tf_frequency"
+			],
+			[
+				"publ",
+				"publishMapTransform"
+			],
+			[
+				"tmpP",
+				"tmpPrtclToPublish"
+			],
+			[
+				"nor",
+				"normalized_weight"
+			],
+			[
+				"fct",
+				"fct_mappingCB"
+			],
+			[
+				"pri",
+				"private_node_"
+			],
+			[
+				"log_",
+				"log_occ"
+			],
+			[
+				"inver",
+				"inverse_model_beta"
+			],
+			[
+				"inve",
+				"inverse_model_alpha"
+			],
+			[
+				"inc",
+				"increment"
+			],
+			[
+				"las",
+				"last_angle"
+			],
+			[
+				"getOri",
+				"getOrigin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "carmen2ros_node.cpp",
+			"settings":
+			{
+				"buffer_size": 3432,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Carmen_Decrypter.cpp",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Message_Factory.cpp",
+			"settings":
+			{
+				"buffer_size": 1610,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/spades/jade_ws/src/carmen2ros/src/header/TF_msg.h",
+			"settings":
+			{
+				"buffer_size": 518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TF_msg.cpp",
+			"settings":
+			{
+				"buffer_size": 2042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/spades/jade_ws/src/carmen2ros/src/header/Messages_Publisher.h",
+			"settings":
+			{
+				"buffer_size": 1428,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/spades/jade_ws/src/carmen2ros/src/header/Message_Factory.h",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/spades/jade_ws/src/carmen2ros/src/header/Carmen_Decrypter.h",
+			"settings":
+			{
+				"buffer_size": 1079,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Odometry_msg.cpp",
+			"settings":
+			{
+				"buffer_size": 2591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 9 files for \"here\" (whole word)\n\n/home/spades/jade_ws/src/carmen2ros/src/src/Laser_msg.cpp:\n   35  	else if(carmenLine[0]==\"FLASER\"){\n   36   \n   37: 		cout << \"here\" << endl;\n   38  \n   39  		angle_min_index = -1;\n\n/home/spades/jade_ws/src/carmen2ros/src/src/carmen2ros_node.cpp:\n   24  int programInputValidation(int argc, char *argv[], variables_map& vm){\n   25  \n   26: 	po::options_description desc(\"Here follows what this program expects as input options\");\n   27  	// First parameter describes option name/short name\n   28      // The second is parameter to option\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "Messages_Publisher.cpp",
+			"settings":
+			{
+				"buffer_size": 2613,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Laser_msg.cpp",
+			"settings":
+			{
+				"buffer_size": 2838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/spades/.bashrc",
+			"settings":
+			{
+				"buffer_size": 4757,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 200.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"Snippet",
+				"Snippet: Vector For Loop"
+			],
+			[
+				"Snip",
+				"Snippet: template <typename ${1:_InputIter}>"
+			]
+		],
+		"width": 372.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"help",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/spades/jade_ws/src/carmen2ros/carmen2ros.sublime-project",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/unusedFunctions.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/TF_msg.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/Odometry_msg.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/Messages_Publisher.cpp",
+		"/home/spades/.bashrc",
+		"/opt/sublime_text/Packages/Theme - Default.sublime-package",
+		"/home/spades/Downloads/ubremen-cartesium/demo3.log",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/Message_Factory.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/Odometry_msg.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/carmen2ros_node.cpp",
+		"/home/spades/Downloads/ubremen-cartesium/demo4.log",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/MessageInterface.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/Message.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/TF_msg.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/Laser_msg.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/Laser_msg.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/Message_Factory.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/Message.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/Carmen_Decrypter.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/Carmen_Decrypter.h",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/source/fct_slam.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/header/fct_slam.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/Messages_Publisher.h",
+		"/home/spades/jade_ws/src/carmen2ros/CMakeLists.txt",
+		"/home/spades/Downloads/ubremen-cartesium/demo2.log",
+		"/home/spades/jade_ws/src/carmen2ros/launch/carmen2rosDEBUG.launch",
+		"/home/spades/.thunderbird/pwcg6ek2.default/ImapMail/imap.googlemail-2.com/[Gmail].sbd/Lixeira.msf",
+		"/home/spades/jade_ws/src/carmen2ros/src/header/ROS_msg_wrapped",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/CMakeLists.txt",
+		"/home/spades/jade_ws/src/carmen2ros/src/src/Laser_msg.h",
+		"/home/spades/jade_ws/src/carmen2ros/package.xml",
+		"/home/spades/jade_ws/src/carmen2ros/src/Odometry_msg.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/TF_msg.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/Laser_msg.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/Carmen_Decrypter.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/carmen2ros_node.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/odom/header/odom_reader.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/Message_Factory.cpp",
+		"/home/spades/Desktop/joiner.sh",
+		"/home/spades/jade_ws/src/carmen2ros/src/Message.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/Carmen_Decrypter.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/Message_Factory.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/Messages_Publisher.h",
+		"/home/spades/jade_ws/src/carmen2ros/src/main.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/package.xml",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/header/particle.h",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/source/particle.cpp",
+		"/home/spades/jade_ws/src/carmen2ros/src/Laser_msg.cpp",
+		"/home/spades/Carmen_Decrypter.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/header/utils_mapping.h",
+		"/opt/ros/jade/include/sensor_msgs/LaserScan.h",
+		"/opt/ros/jade/etc/ros/genmsg/gencpp",
+		"/home/spades/Desktop/secomPP_ROS/secomppROS_MC.sh",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/launch/fct_mapping.launch",
+		"/home/spades/jade_ws/src/client_srv/src/client_node.cpp",
+		"/home/spades/jade_ws/src/producer_consumer/src/talker_node.cpp",
+		"/home/spades/jade_ws/src/secompp_controller/CMakeLists.txt",
+		"/home/spades/jade_ws/src/secompp_controller/src/sPlot",
+		"/home/spades/jade_ws/src/secompp_controller/src/trtlTraj",
+		"/etc/apt/sources.list",
+		"/home/spades/jade_ws/src/secompp_controller/launch/secompp_controller.launch",
+		"/home/spades/jade_ws/src/general_teleop/src/main.cpp",
+		"/home/spades/jade_ws/src/secompp_controller/src/main.cpp",
+		"/home/spades/jade_ws/src/secompp_controller/src/mighty_main.cpp",
+		"/home/spades/jade_ws/src/general_teleop/package.xml",
+		"/home/spades/jade_ws/src/producer_consumer/package.xml",
+		"/opt/ros/jade/share/gmapping/cmake/gmappingConfig.cmake",
+		"/home/spades/jade_ws/src/secompp_controller/package.xml",
+		"/home/spades/Desktop/test.sh",
+		"/opt/ros/jade/share/stage/worlds/autolab.world",
+		"/home/spades/jade_ws/src/secompp_controller/main.cpp",
+		"/home/spades/jade_ws/src/secompp_controller/src/main.cpp.forgotten",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/source/main.cpp",
+		"/opt/ros/jade/lib/turtlesim/turtle_teleop_key",
+		"/home/spades/html5_ws/projeto-glass-html5/_textos/google-glass-txt.html",
+		"/home/spades/html5_ws/projeto-glass-html5/_interface/02-specs.jpg",
+		"/home/spades/html5_ws/projeto-glass-html5/multimidia.html",
+		"/home/spades/html5_ws/projeto-glass-html5/index.html",
+		"/home/spades/html5_ws/projeto-glass-html5/fale-conosco.html",
+		"/home/spades/html5_ws/projeto-glass-html5/_textos/fale-conosco-txt.html",
+		"/home/spades/html5_ws/first_site/maldicao.html",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/header/utils.h",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/source/utils_mapping.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/discarded_functions/mapAdjustment.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/odom/source/odom_reader.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/source/MapRTree.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/fct_mapping/source/utils.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/discarded_functions/scan_matching.cpp",
+		"/home/spades/indigo_ws/src/carmen_reader/CMakeLists.txt",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/launch/demo_g.launch",
+		"/home/spades/indigo_ws/src/carmen_reader/package.xml",
+		"/home/spades/indigo_ws/src/carmen_reader/carmen_publisher.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/launch/displacemente_test.launch",
+		"/home/spades/Desktop/rtree_test/point_test_robot_270_ori",
+		"/home/spades/Desktop/rtree_test/point_test_robot_225_ori",
+		"/home/spades/Desktop/rtree_test/point_test_robot_215_ori",
+		"/home/spades/Desktop/rtree_test/point_test_robot_180_ori",
+		"/home/spades/Desktop/rtree_test/point_test_robot_135_ori",
+		"/home/spades/Desktop/rtree_test/point_test_robot_90_ori",
+		"/home/spades/Desktop/rtree_test/point_test_robot_0_ori",
+		"/home/spades/Desktop/rtree_test/point_test_robot_45_ori",
+		"/home/spades/Desktop/rtree_test/rtree_test",
+		"/home/spades/Desktop/particle1.txt",
+		"/home/spades/Desktop/rtree_test/rtree_test.cpp",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/.git/COMMIT_EDITMSG",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/.git/MERGE_MSG",
+		"/home/spades/indigo_ws/src/fct_gmapping_final_proj/src/odom/source/main.cpp",
+		"/home/spades/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/spades/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/spades/Desktop/float128_test/float128_test.cpp",
+		"/home/spades/Documents/5_ano/IHM/Project/P4/Lista de mudanças",
+		"/home/spades/Desktop/cpp_thrd_test/thread.cpp",
+		"/home/spades/Documents/5_ano/IHM/modelos_mental_conceitual.txt",
+		"/home/spades/aula 5",
+		"/home/spades/A atividade de observar",
+		"/home/spades/Documents/5_ano/SI/presentation_malwares/Engenharia Social.md",
+		"/home/spades/Documents/5_ano/SI/presentation_malwares/bibtex.bib",
+		"/home/spades/Documents/5_ano/IHM/Project/P!/Anotações",
+		"/home/spades/Documents/5_ano/IHM/Project/P!/Questionário.txt",
+		"/home/spades/Documents/5_ano/IHM/Project/P!/Inspirações",
+		"/home/spades/Documents/summary linked in",
+		"/home/spades/Documents/5_ano/Empreendedorismo/first_assignment/tests_links.txt",
+		"/home/spades/Documents/contato_ita_prof_carlos",
+		"/home/spades/Documents/5_ano/IHM/contato_marge"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/home/spades/jade_ws/src/carmen2ros/src/src",
+			"Odometry_msg.cpp",
+			"",
+			"p_set.",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transformation",
+			"here",
+			">\n",
+			"usahuahsuahs",
+			"\"){\n",
+			"());",
+			"exit",
+			"tmp",
+			"tf",
+			"vm",
+			"this->msg",
+			"this->msg.",
+			"type_msg",
+			"> ",
+			"desc",
+			"thrd",
+			"publishMapTrans",
+			"* ",
+			"secompp_mighty_controller_node",
+			");\n",
+			"vel_msg",
+			"b",
+			"z",
+			";\n",
+			"h",
+			"}\n",
+			"Glass",
+			"probWhe",
+			"mapTrans",
+			"publishM",
+			"publishMap",
+			"publish",
+			"publishMap",
+			"=================================================================================================================-->\n",
+			"_\n      \n      ",
+			"\n      ",
+			"scanM",
+			"scanMatcher",
+			"box",
+			"boz",
+			"map_",
+			"scanMatc",
+			"scanMa",
+			"updateM",
+			"if",
+			"base_frame",
+			"base_link",
+			"();\n",
+			"mapTr",
+			"publ",
+			"scanM",
+			"x_t",
+			"odom",
+			"LDP",
+			"sample_at",
+			"initialize",
+			"initializa",
+			"laserScanMS",
+			"laserScanTo",
+			"getRotation",
+			"scanMa",
+			"SetOfUniqueAnglesIFOLaserScan",
+			"calculate",
+			"mean_f128",
+			"mean",
+			"Matrix3f_128",
+			"Vector3f_128",
+			"Vector3f",
+			"cout",
+			"3009",
+			"cout",
+			"split_vector",
+			"boost/multiprecision/double.hpp",
+			"float128",
+			"ld_free",
+			"scan_ma",
+			"free",
+			"ld_free",
+			"scan_m",
+			"prev",
+			"this->prev_scan",
+			"free",
+			"output",
+			"samples_mutex_",
+			"p->setWeight",
+			"lock",
+			"angle",
+			")\n",
+			"updateMA",
+			"scanMat",
+			"scan_matcher",
+			"link_dire",
+			"pro",
+			"Particle *",
+			"p_set.at(",
+			"p_set.at(particle_index).",
+			"p_set.at(tmp).",
+			"p_set.at(i).",
+			"Particle&",
+			"p.",
+			"free",
+			"setId(",
+			"p.",
+			"grid_map.",
+			"ldp.",
+			"ParticlePtr",
+			"p->",
+			"ParticlePtr",
+			"p_set.at(",
+			"p_set.at(i)->",
+			"p_set.at(",
+			"p_set.at(i)->",
+			"ParticlePtr",
+			"p->",
+			"ParticlePtr",
+			"this->tmp_p_set",
+			"p_set->",
+			"inverse_model",
+			"inverseMo",
+			"inverse",
+			"mapTra",
+			"updateMa",
+			"mapTra",
+			"updatePar",
+			"mapTrans",
+			"Particle",
+			"map_to_odom_mutex_.lock()",
+			"scan_matcher_mutex_.lock();"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this->msg.\nthis->msg.\nthis->msg.\nthis->msg->\nvisible",
+			"visible\nvisible",
+			"/",
+			"mean",
+			"Matrix3d",
+			"Vector3d",
+			"boost/multiprecision/float128.hpp",
+			"double",
+			"ParticlePtr ",
+			"p_set.at(particle_index)->",
+			"p_set.at(tmp)->",
+			"p_set.at(i)->",
+			"ParticlePtr",
+			"p->",
+			"grid_map->",
+			"ldp->",
+			"p.",
+			"Particle&",
+			"p_set.at(i).",
+			"Particle&",
+			"p.",
+			"Particle&",
+			"tmpSet",
+			"p_set."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "carmen2ros_node.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2090,
+								2090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 323.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Carmen_Decrypter.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1275.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Message_Factory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1545,
+								1545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/spades/jade_ws/src/carmen2ros/src/header/TF_msg.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "TF_msg.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/spades/jade_ws/src/carmen2ros/src/header/Messages_Publisher.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/spades/jade_ws/src/carmen2ros/src/header/Message_Factory.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/spades/jade_ws/src/carmen2ros/src/header/Carmen_Decrypter.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Odometry_msg.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										171,
+										175
+									],
+									[
+										415,
+										419
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Messages_Publisher.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2613,
+								2613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Laser_msg.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/spades/.bashrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4448,
+								4448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1071.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/home/spades/jade_ws/src/carmen2ros/carmen2ros.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"message",
+				"src/header/Message_Factory.h"
+			],
+			[
+				"mess",
+				"src/src/Message_Factory.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 475.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 361.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

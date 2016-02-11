@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg="carmen2ros" name="debug" type="carmen2ros_node"  args="/home/spades/Downloads/ubremen-cartesium/demo2.log" output="screen" launch-prefix="gdb -ex run --args"/>
+
+</launch>
