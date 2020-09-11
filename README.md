@@ -1,4 +1,4 @@
-This project has been started with the idea of translating CARMEN Log format to ROS messages after some struggling to find some program that did it, and the those found were not satisfying. Its main objective is to develop a ROS node capable of receiving other than CARMEN Log files to read and then translate this information to TOD msgs. To achieve this, the project relies on good software engineering and software pattern usage.
+This project has been started with the idea of translating CARMEN Log format to ROS messages after some struggling to find some program that did it, and the those found were not satisfying. Its main objective is to develop a ROS node capable of receiving other than CARMEN Log files to read and then translate this information to TOD msgs.
 
 The next steps of this project are:
 
